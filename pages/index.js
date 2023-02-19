@@ -143,7 +143,7 @@ function App() {
               <div className="team-member-content">
                 <div className="team-member-text">
                   <div className="team-member-title">Dinesh</div>
-                  <div className="team-member-description">Developer</div>
+                  <div className="team-member-description">Research Advisor</div>
                 </div>
 
                 <a
